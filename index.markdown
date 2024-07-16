@@ -5,5 +5,5 @@
 layout: home
 ---
 
-## This is the home page
+# Home
 This is a pargraph.
