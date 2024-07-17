@@ -5,6 +5,7 @@ main{
   background-color: "cyan";
   margin: 5px;
   padding: 5px;
+  border-left: 20px;
 }
 p{
   font-size: 20px;
