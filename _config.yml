@@ -7,6 +7,10 @@ paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
 
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
 # Gems
 plugins:
   - jekyll-gist
