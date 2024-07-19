@@ -4,10 +4,5 @@ title: About
 permalink: /about/
 ---
 
-# does this page exist
-
-## About
-
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+## About Me
+Hello, I'm Richard Zou. I know C++, Python, and HTML. I use C++ for competetive coding contests like USACO and Codeforces. I used python to make games with pygame. I am currently living in the U.S and I'm in Grade 9. I used to live in Brunei and Australia. I am currently silver in USACO. Other than coding, I enjoy playing squash.
