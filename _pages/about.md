@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /about/
 title: About
+permalink: /about/
 ---
 
 # does this page exist
