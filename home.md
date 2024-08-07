@@ -1,6 +1,5 @@
 ---
 layout: Home
-permalink: /
 ---
 # About Me
 <br><br><br><br>
