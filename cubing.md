@@ -6,6 +6,8 @@ permalink: /videos/
 
 # View my cubing tutorials
 
+Here are the videos:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JYDWOOUVnT0" 
   title="Another Cool Video" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
