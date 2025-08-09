@@ -4,9 +4,8 @@ title: "Cubing Videos"
 permalink: /videos/
 ---
 
-# My Favorite YouTube Videos
+# View my cubing tutorials
 
-Here is a list of embedded YouTube videos:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JYDWOOUVnT0" 
   title="Another Cool Video" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
