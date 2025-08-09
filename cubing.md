@@ -3,10 +3,6 @@ layout: page
 title: "Cubing Videos"
 permalink: /videos/
 ---
-
-TEST TEST TEST TEST TEST TEST
-
-
 # View my cubing tutorials
 
 Here are the videos:
